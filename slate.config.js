@@ -15,7 +15,7 @@ module.exports = {
     extends: {
       dev: {resolve: {alias}},
       prod: {resolve: {alias}},
-      slateTools: { promptSettings: false },
+      slateTools: {promptSettings: false},
     },
   },
 };
